@@ -56,7 +56,7 @@ model = tf.keras.Sequential([
 ])
 
 model.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
-model.fit(X_train, y_train, epochs=15, batch_size=32, verbose=2)
+model.fit(X_train, y_train, epochs=20, batch_size=32, verbose=2)
 
 
 just_testing = [X_test.iloc[0].tolist()]
