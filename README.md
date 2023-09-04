@@ -1,10 +1,8 @@
 # XingFuTang
 Submission for AIC compfest competition - XingFuTang team
 
-<img src = "screenshots/1.jpeg" width = 20% height= 20%>
-<img src = "screenshots/2.jpeg" width = 20% height= 20%>
-<img src = "screenshots/3.jpeg" width = 20% height= 20%>
-<img src = "screenshots/4.jpeg" width = 20% height= 20%>
+<img src = "screenshots/1.jpeg" width = 20% height= 20%><img src = "screenshots/2.jpeg" width = 20% height= 20%>
+<img src = "screenshots/3.jpeg" width = 20% height= 20%><img src = "screenshots/4.jpeg" width = 20% height= 20%>
 
 ## Table of Contents
 
