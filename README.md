@@ -34,7 +34,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/yourusername/e-health-app.git
+   git clone https://github.com/yourusername/xingfutang.git
    
 ## Technologies Used
 
