@@ -24,10 +24,10 @@ Welcome to Xing Fu Tang, your personal health assistant! This Flutter applicatio
 The apk file is available in the apk folder.
 Only android can run this apk file.
 
-### Prerequisites
-All the codes are in first_app folder.
-The python file used to train the model is in first_app/python/model.py
-Datasets used for this project are in first_app/dataset
+### Location
+- All the codes are in first_app folder.
+- The python file used to train the model is in first_app/python/model.py
+- Datasets used for this project are in first_app/dataset
 
 If you wanted to run main.dart, ensure you have met the following requirements:
 
