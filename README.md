@@ -1,7 +1,10 @@
 # XingFuTang
 Submission for AIC compfest competition - XingFuTang team
 
-![App Screenshot](app_screenshot.png)
+![App Screenshot](screenshots/1.jpeg)
+![App Screenshot](screenshots/2.jpeg)
+![App Screenshot](screenshots/3.jpeg)
+![App Screenshot](screenshots/4.jpeg)
 
 ## Table of Contents
 
