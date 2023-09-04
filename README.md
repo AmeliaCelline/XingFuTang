@@ -20,14 +20,21 @@ Welcome to Xing Fu Tang, your personal health assistant! This Flutter applicatio
 - Receive disease names, descriptions, and precautions based on input.
 - User-friendly and intuitive interface.
 
-## Getting Started
+## Run the app
+The apk file is available in the apk folder.
+Only android can run this apk file.
 
 ### Prerequisites
+All the codes are in first_app folder.
+The python file used to train the model is in first_app/python/model.py
+Datasets used for this project are in first_app/dataset
 
-Before you begin, ensure you have met the following requirements:
+If you wanted to run main.dart, ensure you have met the following requirements:
 
 - [Flutter SDK](https://flutter.dev/docs/get-started/install) installed.
 - Flutter compatible IDE (e.g., [Android Studio](https://developer.android.com/studio) or [VS Code](https://code.visualstudio.com/)).
+
+If you wanted to run the python files, the requirements can be found in first_app/python/requirements.txt
 
 ### Installation
 
@@ -39,4 +46,5 @@ Before you begin, ensure you have met the following requirements:
 ## Technologies Used
 
 - Flutter: The framework used to build the mobile app.
-- Dart: The programming language used for Flutter development. 
+- Dart: The programming language used for Flutter development.
+- Python: The programming language used to train the model.
