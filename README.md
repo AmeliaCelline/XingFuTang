@@ -7,7 +7,7 @@
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Getting Started](#getting-started)
+- [Run the app](#run-the-app)
 - [Technologies Used](#technologies-used)
 
 ## Introduction
